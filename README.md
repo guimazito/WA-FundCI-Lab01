@@ -1,2 +1,2 @@
-# WA_FundCI_Lab01_01
-Exercício 01 do Laboratório 01
+# WA-FundCI-Lab01
+Exercícios do Laboratório 01 de Fundamentos de Integração Contínua e Deploy de Aplicação Web
